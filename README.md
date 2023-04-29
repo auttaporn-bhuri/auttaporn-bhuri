@@ -6,8 +6,13 @@ Software Developer
 
 I'm try to long life learning
 
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [auttaporn@gmail.com](mailto:auttaporn@gmail.com)
+* 🔭 I’m currently working on Standard Solution Co.,Ltd
+* ⚡ Fun fact: I'm happy daddy with my daughter
+* 🌍 I'm based in Bangkok, Thailand
+* ✉️ You can contact me at [auttaporn@gmail.com](mailto:auttaporn@gmail.com)
+<!--
+* 💬 Ask me about ...
+-->
 
 ### Skills
 
