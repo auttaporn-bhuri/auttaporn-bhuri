@@ -58,7 +58,7 @@ I'm try to long life learning
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/auttaporn-bhuri"><img src="https://github-readme-stats.vercel.app/api?username=auttaporn-bhuri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="auttaporn-bhuri's GitHub stats" /></a>
+<a href="http://www.github.com/auttaporn-bhuri"><img src="https://github-readme-stats.vercel.app/api?username=auttaporn-bhuri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="auttaporn-bhuri's GitHub stats" align="right"/></a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auttaporn-bhuri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true"/>
 
