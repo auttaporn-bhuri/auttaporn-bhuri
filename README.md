@@ -66,11 +66,12 @@ I'm try to long life learning
 -->
 ### Badges
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=auttaporn-bhuri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" align="left"/>
+
 <a href="http://www.github.com/auttaporn-bhuri">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=auttaporn-bhuri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub stats" align="left"/>
 </a>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=auttaporn-bhuri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" align="left"/>
 
 <!--
 <a href="http://www.github.com/auttaporn-bhuri"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=auttaporn-bhuri&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
