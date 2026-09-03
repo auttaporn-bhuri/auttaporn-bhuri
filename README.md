@@ -1,7 +1,7 @@
 Hi 👋 My name is Auttaporn Bhurisiwarak
 =======================================
 
-Software Developer
+Senior Software Developer
 ------------------
 
 I'm try to long life learning
